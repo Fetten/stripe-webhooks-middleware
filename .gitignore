@@ -1,0 +1,18 @@
+# OS or Editor folders
+*~
+.DS_Store
+._*
+Thumbs.db
+.cache
+.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
